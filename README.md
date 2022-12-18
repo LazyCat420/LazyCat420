@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LazyCat420
-- 👀 I’m interested in crypto
+- 👀 I’m interested in crypto, machine learning, technology for agriculture 
 - 🌱 I’m currently learning python, AI machine learning, disco diffusion, crypto, stable diffusion
 - 💞️ I’m looking to collaborate on anyone in crypto, AI machine learning, art 
 - 📫 How to reach me Twitter: @LazyForestCat 
