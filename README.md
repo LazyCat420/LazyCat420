@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anyone in crypto, AI machine learning, art 
 - 📫 How to reach me Twitter: @LazyForestCat 
 
-Currently learning python. 
+Currently learning python and javscript. 
 
 <!---
 LazyCat420/LazyCat420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
