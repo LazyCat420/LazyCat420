@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @LazyCat420
-- 👀 I’m interested in crypto, machine learning, technology for agriculture 
-- 🌱 I’m currently learning python, AI machine learning, disco diffusion, crypto, stable diffusion
-- 💞️ I’m looking to collaborate on anyone in crypto, AI machine learning, art 
+- 👀 I’m interested in machine learning, robotics
+- 🌱 I’m currently learning python, javascript, AI machine learning, robotics
+- 💞️ I’m looking to collaborate on anyone in AI machine learning, robotics
 - 📫 How to reach me Twitter: @LazyForestCat 
-
-Currently learning python and javscript. 
 
 <!---
 LazyCat420/LazyCat420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
