@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LazyCat420
-- 👀 I’m interested in machine learning, robotics
-- 🌱 I’m currently learning python, javascript, AI machine learning, robotics
-- 💞️ I’m looking to collaborate on anyone in AI machine learning, robotics
+- 👀 I’m interested in machine learning, robotics looking to collaborate on anyone in AI machine learning, robotics
 - 📫 How to reach me Twitter: @LazyForestCat 
 
 <!---
