@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @LazyCat420
-- 👀 I’m interested in machine learning, robotics looking to collaborate on anyone in AI machine learning, robotics
-- 📫 How to reach me Twitter: @LazyForestCat 
+I am barfing out AI code testing stuff. 
 
 <!---
 LazyCat420/LazyCat420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
